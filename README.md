@@ -1,2 +1,4 @@
 # conda_env_export.py
-Conda env and pip command all export
+added name key and disable sorting in yaml.dump to enable
+
+python conda_env_export.py > environment.yml
